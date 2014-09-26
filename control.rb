@@ -1,4 +1,3 @@
-
 puts "=============================="
 puts "Welcome to Ruby Weather Center"
 puts "Written by Eric Benoit"
