@@ -1,8 +1,9 @@
+puts "\r"
 puts "=============================="
 puts "Welcome to Ruby Weather Center"
 puts "Written by Eric Benoit"
 puts "=============================="
-puts
+puts "\r"
 
 puts "What is the temperature today?"
 TEMPERATURE_F_INPUT = gets.chomp.to_i
